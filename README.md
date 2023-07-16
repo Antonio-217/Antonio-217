@@ -9,7 +9,7 @@ Estou aberto a novas oportunidades e ansioso para fazer parte de projetos que po
 ## 🛠 Projetos 
 
 ### [Bike Shop]
-🚲 O BikeShop é uma solução abrangente para gerenciar e otimizar as operações de uma loja de bicicletas. Desenvolvido em Java e utilizando o banco de dados MySQL, o software é projetado para ser possivel ter um controle de estoque, bikes e marcas, também possibilitando ter um controle de usuários ativos.
+🚲 O BikeShop é uma solução abrangente para gerenciar e otimizar as operações de uma loja de bicicletas. Desenvolvido em Java e utilizando o banco de dados MySQL, o software é projetado para ter um controle de estoque, bikes e marcas, também possibilitando ter um controle de usuários ativos.
 
 Link para o repositório: [ProjetoBikeShop](https://github.com/Antonio-217/ProjetoBikeShop)
 
