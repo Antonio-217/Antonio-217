@@ -16,7 +16,7 @@ Link para o repositório: [ProjetoBikeShop](https://github.com/Antonio-217/Proje
 ### [Ordem Software] 
 📊 OrdemSoftware é uma aplicação web dedicada a oferecer o melhor ambiente comercial para os usuários, contando com ordem de venda, controle de estoque, controle de usuários, controle de fornecedores, relatórios entre outros módulos.
 
-Link para o repositório: [OrdemSoftaware](https://github.com/Antonio-217/OrdemSoftware)
+Link para o repositório: [OrdemSoftware](https://github.com/Antonio-217/OrdemSoftware)
 
 ## 📞 Contato 
 
