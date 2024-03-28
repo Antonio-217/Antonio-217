@@ -4,7 +4,7 @@
 
 Além de minha paixão pela programação, sou motivado por desafios. Estou sempre em busca de projetos que me permitam aplicar minhas habilidades e contribuir para equipes de desenvolvimento dinâmicas e inovadoras. Sou um entusiasta do trabalho colaborativo e acredito no poder da criatividade e da troca de ideias para impulsionar soluções excepcionais.
 
-Estou aberto a novas oportunidades e ansioso para fazer parte de projetos que possam desafiar e estimular meu crescimento profissional. Se você está em busca de um desenvolvedor back-end altamente comprometido, focado em qualidade e com habilidades sólidas em Java, ficarei feliz em colaborar e agregar valor ao seu time.
+Estou aberto a novas oportunidades e ansioso para fazer parte de projetos que possam desafiar e estimular meu crescimento profissional. Se você está em busca de um desenvolvedor back-end altamente comprometido, focado em qualidade e com habilidades sólidas em Java e NodeJS, ficarei feliz em colaborar e agregar valor ao seu time.
 
 ## 📞 Contato 
 
